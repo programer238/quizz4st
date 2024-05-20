@@ -1,111 +1,111 @@
 let questions = [
     {
         numb: 1,
-        question: "How to write a first order differential equation?",
-        answer: "A.y'(x)+y(x)=F(x)",
+        question: "english question num 1",
+        answer: "A.",
         options: [
-            "A.y'(x)+y(x)=F(x)",
-            "B.y''(x)+y'(x)=F(x)",
-            "C.y'(x)+y''(x)=F(x)",
-            "D.none of the above"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4"
         ]
     },
     {
         numb: 2,
-        question: "the integral :∫xy dxdy(0<x<1,1<y<2) equal :",
-        answer: "D.3/4",
+        question: "english question",
+        answer: "D.4",
         options: [
-            "A.5/4",
-            "B.0",
-            "C.1",
-            "D.3/4"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4"
         ]
     },
     {
         numb: 3,
-        question: "we give ∫xy dxdy with (0<x<1,0<y<2x):",
-        answer: "A.Integration begins with Y",
+        question: "english question",
+        answer: "A.1",
         options: [
-            "A.Integration begins with Y",
-            "B.Integration begins with X.",
-            "C.doesn't matter which variabl you start with.",
-            "D.i don't know"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 4,
-        question: "the equation of the circle :",
-        answer: "B.(x - x₀)² + (y - y₀)² = R²",
+        question: "english question",
+        answer: "B.2",
         options: [
-            "A.(x - x₀)² + (y - y₀)² = 1",
-            "B.(x - x₀)² + (y - y₀)² = R²",
-            "C.x² + y² = 1",
-            "D.x² + y² = R²"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 5,
-        question: "the equation of a ball is :",
-        answer: "B.(x - x₀)² + (y - y₀)² + (z - z₀)² = R²",
+        question: "english question",
+        answer: "B.2",
         options: [
-            "A.(x - x₀)² + (y - y₀)² + (z - z₀)² = 1",
-            "B.(x - x₀)² + (y - y₀)² + (z - z₀)² = R²",
-            "C.x² + y² + z² = R²",
-            "D.x² + y² + z² = 1"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 6,
-        question: "the homogeneous solution of:y'(x)+Dy(x)=F(x)",
-        answer: "A.C*e^-∫D",
+        question: "english question",
+        answer: "A.1",
         options: [
-            "A.C*e^-∫D",
-            "B.C(x)*e^-∫D",
-            "C.C*e^∫D",
-            "D.none of the above"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 7,
-        question: "The shortest war in history lasted only 38 minutes?",
-        answer: "A.yes",
+        question: "english question",
+        answer: "A.1",
         options: [
-            "A.yes",
-            "B.i don't care bro ",
-            "C.no",
-            "D.?"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 8,
-        question: "if delta=0 the homogeneous solution is :",
-        answer: "C.(C1*x+C2)e^rx",
+        question: "english question",
+        answer: "C.3",
         options: [
-            "A.C1*e^rx + C2*e^rx",
-            "B.(C1*x+C2*x)e^rx",
-            "C.(C1*x+C2)e^rx",
-            "D.none of the above"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 9,
-        question: "if delta>0 the homogeneous solution is :",
-        answer: "B.C1*e^rx + C2*e^rx",
+        question: "english question",
+        answer: "B.2",
         options: [
-            "A.(C1*x+C2*x)e^rx",
-            "B.C1*e^rx + C2*e^rx",
-            "C.C1*e^rx - C2*e^rx",
-            "D.none of the above"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     },
     {
         numb: 10,
-        question: "if delta<0 the homogeneous solution is :",
-        answer: "C.e^ax[C1*cos(bx)+C2*sin(bx)]",
+        question: "english question",
+        answer: "C.3",
         options: [
-            "A.e^bx[C1*cos(ax)+C2*sin(ax)]",
-            "B.e^ax[C1*cos(bx)-C2*sin(bx)]",
-            "C.e^ax[C1*cos(bx)+C2*sin(bx)]",
-            "D.none of the above"
+            "A.1",
+            "B.2",
+            "C.3",
+            "D.4
         ]
     }]
