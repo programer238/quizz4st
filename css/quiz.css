@@ -494,6 +494,7 @@ body {
 
     .quiz-section .quiz-box {
         width: 360px;
+        top: -88px;
     }
 
     .quiz-section .result-box {
