@@ -51,7 +51,7 @@ let questions = [
             "A.adimensionnels",
             "B.Pa.s",
             "C.Pa.s-1",
-            "D.(Pa.s-2"
+            "D.Pa.s-2"
         ]
     },
     {
