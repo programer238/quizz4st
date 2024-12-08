@@ -90,7 +90,7 @@ let questions = [
     {
         numb: 9,
         question: "Quelle loi régit le transfert de chaleur par conduction ?",
-        answer: "B. La loi de Fourier",
+        answer: "B.La loi de Fourier",
         options: [
             "A.La loi de Newton",
             "B.La loi de Fourier",
