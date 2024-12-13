@@ -2,45 +2,45 @@ let questions = [
     {
         numb: 1,
         question: "Unité de Flux massique",
-        answer: "B.kg.m-2.s-1",
+        answer: "B.kg.m².s⁻¹",
         options: [
-            "A.kg.m-1.s-2",
-            "B.kg.m-2.s-1",
-            "C.kg.m-1.s-1",
-            "D.kg.s-3.m-1"
+            "A.kg.m⁻¹.s⁻²",
+            "B.kg.m².s⁻¹",
+            "C.kg.m⁻¹.s⁻¹",
+            "D.kg.s⁻³.m⁻¹"
         ]
     },
     {
         numb: 2,
         question: "Unité de Flux molaire ",
-        answer: "C.mol.m-2.s-1",
+        answer: "C.mol.m².s⁻¹",
         options: [
-            "A.mol.m-3.s-1",
-            "B.mol.m-1.s-2",
-            "C.mol.m-2.s-1",
-            "D.mol.s-1.m-1"
+            "A.mol.m⁻³.s⁻¹",
+            "B.mol.m⁻¹.s⁻²",
+            "C.mol.m².s⁻¹",
+            "D.mol.s⁻¹.m⁻¹"
         ]
     },
     {
         numb: 3,
         question: "Unité de Ja 'la loi de Fick'",
-        answer: "B.mol.m2.s-1",
+        answer: "B.mol.m².s⁻¹",
         options: [
-            "A.mol.m-2.s-2",
-            "B.mol.m2.s-1",
-            "C.mol.m2.s",
-            "D.mol.m2.s-2"
+            "A.mol.m⁻².s⁻²",
+            "B.mol.m².s⁻¹",
+            "C.mol.m².s",
+            "D.mol.m².s⁻²"
         ]
     },
     {
         numb: 4,
         question: "Unité de Coefficient de diffusion'KIRSCHFELDER'",
-        answer: "C.cm2.s-1",
+        answer: "C.cm².s⁻¹",
         options: [
-            "A.cm2.s",
-            "B.cm.s-1",
-            "C.cm2.s-1",
-            "D.cm2.s-2"
+            "A.cm².s",
+            "B.cm.s⁻¹",
+            "C.cm².s⁻¹",
+            "D.cm².s⁻²"
         ]
     },
     {
@@ -50,30 +50,30 @@ let questions = [
         options: [
             "A.adimensionnels",
             "B.Pa.s",
-            "C.Pa.s-1",
-            "D.Pa.s-2"
+            "C.Pa.s⁻¹",
+            "D.Pa.s⁻²"
         ]
     },
     {
         numb: 6,
         question: "Unité de la conductance",
-        answer: "C.kcal.h-1.K-1",
+        answer: "C.kcal.h⁻¹.K⁻¹",
         options: [
             "A.kcal.h.K",
-            "B.kcal.h.K-1",
-            "C.kcal.h-1.K-1",
-            "D.kcal.h-2.K-1"
+            "B.kcal.h.K⁻¹",
+            "C.kcal.h⁻¹.K⁻¹",
+            "D.kcal.h⁻².K⁻¹"
         ]
     },
     {
         numb: 7,
         question: "Unité de la Coefficient de convection thermique.",
-        answer: "B.W.m-2.k-1",
+        answer: "B.W.m⁻².k⁻¹",
         options: [
-            "A.W.m-2.k",
-            "B.W.m-2.k-1",
-            "C.W.m-1.k-1",
-            "D.W.m.k-1"
+            "A.W.m⁻².k",
+            "B.W.m⁻².k⁻¹",
+            "C.W.m⁻¹.k⁻¹",
+            "D.W.m.k⁻¹"
         ]
     },
     {
@@ -110,3 +110,4 @@ let questions = [
         ]
     }
 ];
+
