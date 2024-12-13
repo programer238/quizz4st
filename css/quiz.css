@@ -473,7 +473,7 @@ body {
     }
 
     .home-content {
-        transform: translateX(-40%);
+        transform: translateX(-32%);
     }
 
     .container {
@@ -494,7 +494,8 @@ body {
 
     .quiz-section .quiz-box {
         width: 360px;
-        top: -88px;
+        top: -67px;
+        right: -9px;
     }
 
     .quiz-section .result-box {
@@ -514,7 +515,7 @@ body {
     }
 
     .home-content p {
-        font-size: 16px;
+        font-size: 22px;
         display: flex;
         text-align: center;
         padding: 0px 20px 0px 20px;
